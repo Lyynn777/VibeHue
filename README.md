@@ -1,4 +1,12 @@
 # 🌈 VibeHue
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-NLP-orange?style=for-the-badge&logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-6A0DAD?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-003B57?style=for-the-badge&logo=python&logoColor=white)
+
 This project takes a text input (a sentence describing a mood) and predicts an emotion using two open-source NLP models.  
 Based on the predicted emotion, it generates a simple 5-color palette.  
 Everything runs locally in Google Colab without any external API keys.
